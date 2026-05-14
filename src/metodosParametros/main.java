@@ -1,4 +1,4 @@
-package MetodosParametros;
+package metodosParametros;
 
 public class main {
     public static void main(String[] args) {

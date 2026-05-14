@@ -1,8 +1,8 @@
-package Desafio3;
+package _terceiroDesafio;
 
 public class uchicha extends ninja {
 
-    String habilidadeEspecial;
+    String habilidadeEspecial = "Sharingan";
 
     public void mostrarInformacoes() {
         super.mostrarInformacoes();

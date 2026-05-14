@@ -1,8 +1,8 @@
-package Herança;
+package interfaces;
 
 public class uchicha extends ninja {
 
-    public void AtivarSharingan() {
+    public void ativarSharingan() {
         System.out.println("Eu sou um Uchicha e acabei de ativar o meu Sharingan!\n");
     }
 

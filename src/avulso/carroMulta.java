@@ -1,4 +1,4 @@
-package Avulso;
+package avulso;
 
 import java.util.Scanner;
 

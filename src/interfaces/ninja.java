@@ -1,4 +1,4 @@
-package Herança;
+package interfaces;
 
 public class ninja {
 
@@ -7,7 +7,7 @@ public class ninja {
     int idade;
 
 
-    public void Apresentação() {
+    public void apresentacao() {
         System.out.println("Eu me chamo " +nome+ ", tenho " +idade+ " anos e sou da aldeia " +aldeia);
     }
 

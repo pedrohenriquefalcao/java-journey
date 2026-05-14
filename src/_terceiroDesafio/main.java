@@ -1,4 +1,4 @@
-package Desafio3;
+package _terceiroDesafio;
 
 import java.util.Scanner;
 

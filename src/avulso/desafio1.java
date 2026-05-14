@@ -1,4 +1,4 @@
-package Avulso;
+package avulso;
 
 public class desafio1 {
     public static void main(String[] args) {

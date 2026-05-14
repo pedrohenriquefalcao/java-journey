@@ -1,4 +1,4 @@
-package Herança;
+package heranca;
 
 public class main {
     public static void main(String[] args) {
@@ -7,27 +7,27 @@ public class main {
         Naruto.nome = "Naruto Uzumaki";
         Naruto.aldeia = "Konoha";
         Naruto.idade = 17;
-        Naruto.Apresentação(); Naruto.ModoSábioAtivado();
+        Naruto.apresentacao(); Naruto.modoSabioAtivado();
 
 
         uchicha Saske = new uchicha();
         Saske.nome = "Sasuke Uchicha";
         Saske.aldeia = "Konoha";
         Saske.idade = 17;
-        Saske.Apresentação(); Saske.AtivarSharingan();
+        Saske.apresentacao(); Saske.ativarSharingan();
 
         ninja Sakura = new ninja();
         Sakura.nome = "Sakura Haruno";
         Sakura.aldeia = "Konoha";
         Sakura.idade = 17;
-        Sakura.Apresentação();
+        Sakura.apresentacao();
 
 
         ninja Hinata = new ninja();
         Hinata.nome = "Hinata Hyuuga";
         Hinata.aldeia = "Konoha";
         Hinata.idade = 17;
-        Hinata.Apresentação();
+        Hinata.apresentacao();
 
 
 

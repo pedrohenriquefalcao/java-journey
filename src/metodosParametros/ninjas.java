@@ -1,4 +1,4 @@
-package MetodosParametros;
+package metodosParametros;
 
 public class ninjas {
     String nome;
