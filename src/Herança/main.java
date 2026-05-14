@@ -1,29 +1,29 @@
 package Herança;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
 
-        Uzumaki Naruto = new Uzumaki();
+        uzumaki Naruto = new uzumaki();
         Naruto.nome = "Naruto Uzumaki";
         Naruto.aldeia = "Konoha";
         Naruto.idade = 17;
         Naruto.Apresentação(); Naruto.ModoSábioAtivado();
 
 
-        Uchicha Saske = new Uchicha();
+        uchicha Saske = new uchicha();
         Saske.nome = "Sasuke Uchicha";
         Saske.aldeia = "Konoha";
         Saske.idade = 17;
         Saske.Apresentação(); Saske.AtivarSharingan();
 
-        Ninja Sakura = new Ninja();
+        ninja Sakura = new ninja();
         Sakura.nome = "Sakura Haruno";
         Sakura.aldeia = "Konoha";
         Sakura.idade = 17;
         Sakura.Apresentação();
 
 
-        Ninja Hinata = new Ninja();
+        ninja Hinata = new ninja();
         Hinata.nome = "Hinata Hyuuga";
         Hinata.aldeia = "Konoha";
         Hinata.idade = 17;

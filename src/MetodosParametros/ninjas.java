@@ -1,6 +1,6 @@
 package MetodosParametros;
 
-public class Ninjas {
+public class ninjas {
     String nome;
     String aldeia;
     int idade;

@@ -2,14 +2,14 @@ package Desafio3;
 
 import java.util.Scanner;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
 
         int opc = 0;
         Scanner scanner = new Scanner(System.in);
 
-        Uchicha Sasuke = new Uchicha();
+        uchicha Sasuke = new uchicha();
         Sasuke.nome = "Sasuke U";
         Sasuke.idade = 17;
         Sasuke.missao = "Missão 1";
@@ -19,7 +19,7 @@ public class Main {
 
         Sasuke.mostrarInformacoes();
 
-        Ninja Naruto = new Ninja();
+        ninja Naruto = new ninja();
         Naruto.nome = "Naruto U";
         Naruto.idade = 17;
         Naruto.missao = "Missão 2";
@@ -45,7 +45,7 @@ public class Main {
                 Sasuke.mostrarInformacoes();
             } else if (opc == 2) {
                 System.out.println("Cadastrando um novo ninja comum...");
-                Ninja novoNinja = new Ninja();
+                ninja novoNinja = new ninja();
 
                 System.out.println("Digite o nome dele:");
                 novoNinja.nome = scanner.nextLine();

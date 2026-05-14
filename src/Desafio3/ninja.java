@@ -1,6 +1,6 @@
 package Desafio3;
 
-public class Ninja {
+public class ninja {
 
     String nome;
     int idade;

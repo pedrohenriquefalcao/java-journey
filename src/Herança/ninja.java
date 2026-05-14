@@ -1,6 +1,6 @@
 package Herança;
 
-public class Ninja {
+public class ninja {
 
     String nome;
     String aldeia;

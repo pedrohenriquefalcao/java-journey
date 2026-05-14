@@ -1,6 +1,6 @@
 package Avulso;
 
-public class PrimeiroDesafio {
+public class desafio1 {
     public static void main(String[] args) {
 
                 String nome = "Naruto";

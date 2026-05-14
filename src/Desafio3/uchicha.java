@@ -1,6 +1,6 @@
 package Desafio3;
 
-public class Uchicha extends Ninja {
+public class uchicha extends ninja {
 
     String habilidadeEspecial;
 
@@ -9,3 +9,4 @@ public class Uchicha extends Ninja {
         System.out.println("Habilidade Especial: " + habilidadeEspecial);
     }
 }
+

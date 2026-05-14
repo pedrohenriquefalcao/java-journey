@@ -1,6 +1,6 @@
 package Herança;
 
-public class Uzumaki extends Ninja {
+public class uzumaki extends ninja {
 
     public void ModoSábioAtivado() {
         System.out.println("Eu sou um Uzumaki e ativei o modo sábio!\n");
