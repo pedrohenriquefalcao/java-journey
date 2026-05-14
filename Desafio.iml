@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Avulso" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/benchmarks/macrobenchmarks/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/benchmarks/platform_views_layout/android/app/src/main/java/dev/bechmarks" isTestSource="false" packagePrefix="dev.benchmarks" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/benchmarks/platform_views_layout_hybrid_composition/android/app/src/main/java/dev/bechmarks/platform_views_layout" isTestSource="false" packagePrefix="dev.benchmarks.platform_views_layout_hybrid_composition" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/android_module_host_with_custom_build_v2_embedding/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/android_semantics_testing/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/android_verified_input/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/android_views/android/app/src/main/java/io/flutter/integration/androidviews" isTestSource="false" packagePrefix="io.flutter.integration.platformviews" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/channels/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/external_textures/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/flavors/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/flutter_gallery/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/module_host_with_custom_build_v2_embedding/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/platform_interaction/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/pure_android_host_apps/android_custom_host_app/SampleApp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/pure_android_host_apps/android_host_app_v2_embedding/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/release_smoke_test/android/app/src/androidTest/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/release_smoke_test/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/dev/integration_tests/ui/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/engine/src/flutter/shell/platform/android" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/engine/src/flutter/shell/platform/android/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/examples/flutter_view/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/examples/platform_channel/android/app/src/androidTest/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/examples/platform_channel/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/examples/platform_view/android/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/packages/integration_test/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/packages/integration_test/android/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../recursos/flutter/packages/integration_test/example/android/app/src/androidTest/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-24" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
