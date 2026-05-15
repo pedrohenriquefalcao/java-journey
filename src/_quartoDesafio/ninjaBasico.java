@@ -4,9 +4,9 @@ public class ninjaBasico implements ninja {
 
     String nome;
     int idade;
-    String habilidade;
+    tipoHabilidade habilidade;
 
-    public ninjaBasico(String nome, int idade, String habilidade) {
+    public ninjaBasico(String nome, int idade, tipoHabilidade habilidade) {
         this.nome = nome;
         this.idade = idade;
         this.habilidade = habilidade;
